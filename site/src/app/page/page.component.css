@@ -53,7 +53,7 @@
   font-size: 18px;
   color: black;
   font-family: Calibri;
-  text-indent: 30px;
+  padding-left: 30px;
 }
 
 .idiomas
@@ -66,7 +66,7 @@
   font-size: 16px;
   color: black;
   font-family: Calibri;
-  text-indent: 30px;
+  padding-left: 30px;
 }
 
 
@@ -75,13 +75,19 @@
   padding-left: 20px;
 }
 
+
+.habilidades-list
+{
+  padding-left: 60px;
+}
+
 .habilidades-item
 {
   font-size: 16px;
   color: black;
   font-family: Calibri;
   list-style-type: disc;
-  text-indent: 60px;
+
 }
 
 .cursos
@@ -94,7 +100,7 @@
   font-size: 16px;
   color: black;
   font-family: Calibri;
-  text-indent: 30px;
+  padding-left: 30px;
 }
 
 
@@ -115,7 +121,7 @@
   font-size: 16px;
   color: black;
   font-family: Calibri;
-  text-indent: 30px;
+  padding-left: 30px;
   font-style: italic;
 }
 
@@ -124,7 +130,7 @@
   font-size: 16px;
   color: black;
   font-family: calibri;
-  text-indent: 30px;
+  padding-left: 30px;
 }
 
 .linha
