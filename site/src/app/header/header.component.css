@@ -1,0 +1,31 @@
+.h-container
+{
+    background-image: linear-gradient(#191970, #4169E1);
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 100px;
+}
+
+.h-item1
+{
+  width: 400px;
+  font-size: 52px;
+  font-family: Cambria;
+  color: white;
+  padding-left:10px;
+  padding-top:10px;
+  font-style: italic;
+}
+
+.h-item2
+{
+  width: 300px;
+  font-size: 20px;
+  font-family: Cambria;
+  font-style: italic;
+  color: silver;
+  padding-left:10px;
+  padding-top:10px;
+  text-indent: 260px;
+}

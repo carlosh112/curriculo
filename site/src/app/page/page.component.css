@@ -1,0 +1,135 @@
+.dados-pessoais
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.dados-pessoais-img
+{
+  padding-top: 20px;
+  padding-left: 10px;
+  width: 100px;
+  height: 100px;
+  border-width: 1px;
+  border-color: black;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+
+.dados-pessoais-info
+{
+  padding-top: 20px;
+  padding-left: 10px;
+  font-family: Calibri;
+  font-size: 16px;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+
+.titulo
+{
+  font-size: 20px;
+  color: #4169E1;
+  font-family: Cambria;
+}
+
+.formacao
+{
+  padding-left: 20px;
+}
+
+
+.formacao-item
+{
+  font-size: 18px;
+  color: black;
+  font-family: Calibri;
+  text-indent: 30px;
+}
+
+.idiomas
+{
+  padding-left: 20px;
+}
+
+.idiomas-item
+{
+  font-size: 16px;
+  color: black;
+  font-family: Calibri;
+  text-indent: 30px;
+}
+
+
+.habilidades
+{
+  padding-left: 20px;
+}
+
+.habilidades-item
+{
+  font-size: 16px;
+  color: black;
+  font-family: Calibri;
+  list-style-type: disc;
+  text-indent: 60px;
+}
+
+.cursos
+{
+  padding-left: 20px;
+}
+
+.cursos-item
+{
+  font-size: 16px;
+  color: black;
+  font-family: Calibri;
+  text-indent: 30px;
+}
+
+
+.experiencia-profissional
+{
+  padding-left: 20px;
+}
+
+.experiencia-empresa
+{
+  font-size: 18px;
+  color: black;
+  font-family: Cambria;
+}
+
+.experiencia-projeto
+{
+  font-size: 16px;
+  color: black;
+  font-family: Calibri;
+  text-indent: 30px;
+  font-style: italic;
+}
+
+.experiencia-projeto-item
+{
+  font-size: 16px;
+  color: black;
+  font-family: calibri;
+  text-indent: 30px;
+}
+
+.linha
+{
+  border-width: 1px;
+  border-color: black;
+  width: 100%;
+}
